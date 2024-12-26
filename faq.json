@@ -1,0 +1,41 @@
+{
+    "categories": {
+        "çalışma_saatleri": {
+            "title": "Çalışma Saatleri ve Lokasyonlar",
+            "questions": {
+                "Kütüphane hangi gün ve saatler arasında açıktır?": "Kütüphanelerimiz hafta içi 08:30 – 18:00 saatleri arasında açıktır. \nSınav dönemlerinde hafta içi 08:30 – 22:00; hafta sonu 10:00-18:00 saatleri arasında kütüphanemiz kullanıma açıktır.",
+                "İstanbul Kültür Üniversitesi Kütüphaneleri nerelerde bulunmaktadır?": "Kütüphanelerimiz; Ataköy Yerleşkesi, Şirinevler Yerleşkesi ve Basın Ekspres Yerleşkesi'nde yer almaktadır."
+            }
+        },
+        "kurallar": {
+            "title": "Kütüphane Kuralları",
+            "questions": {
+                "Kütüphanede yiyecek ve içecek tüketebilir miyim?": "Kütüphane içerisinde su haricinde yiyecek, içecek ve tütün ürünleri kullanılması yasaktır."
+            }
+        },
+        "ödünç_alma": {
+            "title": "Ödünç Alma ve İade",
+            "questions": {
+                "Kütüphane üyesi olarak kaç materyal ödünç alabilirim?": "Materyal ödünç alma hakkı kullanıcı türüne göre değişiklik göstermektedir. Detaylı bilgi için sitemizdeki Hizmetler bölümüne bakınız.",
+                "Kütüphanede bulunan kaynakları ödünç alabilir miyim?": "Kütüphane koleksiyonunda bulunan süreli yayınlar, tezler, nadir eserler ve danışma kaynakları (sözlük, ansiklopedi, atlas) dışında kalan multimedya kaynakları ve kitapları ödünç alabilirsiniz.",
+                "Ödünç aldığım kitabın iade süresini nasıl uzatabilirim?": "Ödünç alınan yayının süresini, iade tarihine 3 gün kala kütüphane katalog hesabınızdan uzatabilirsiniz.",
+                "Ödünç aldığım kitabın iade süreci geçti ne yapabilirim?": "Ödünç alınan kitap ilgili kütüphaneye teslim edilir ve Kitap Geciktirme Cezası süreçlerinde yer alan adımlar uygulanmaktadır.",
+                "Kütüphaneden ödünç aldığım kaynağı kaybettim. Bu durumda ne yapmalıyım?": "Kaybedilen kaynağın tarih ve basım sayısı aynı olacak şekilde ya da benzer bir kaynak alınarak kütüphaneye teslim edilmesi gerekmektedir. Aynı zamanda kitap geciktirme cezasında yer alan süreç de uygulanmaktadır."
+            }
+        },
+        "kaynak_erişimi": {
+            "title": "Kaynak Erişimi ve Arama",
+            "questions": {
+                "Kütüphane dışından elektronik kaynaklara (dergi ve kitap) nasıl erişim sağlayabilirim?": "Sadece İstanbul Kültür Üniversitesi mensupları ve öğrencileri mail adresleri ve Orion şifreleri ile ayrıca akademik personel VPN bağlantısını kurarak elektronik kaynaklarımıza kampüs dışı erişim sağlayabilmektedir. Detaylı bilgi için kampüs dışı erişim sayfasına bakabilirsiniz.",
+                "Kütüphane kataloğundan nasıl tarama yapabilirim?": "Kütüphanemizdeki katalog tarama alanında yer alan bilgisayarla aracılığıyla katalog tarama yapabilirsiniz.",
+                "İstediğim kitap, dergi ya da makale kütüphane koleksiyonunda yoksa ne yapabilirim?": "Aradığınız kaynağın koleksiyonumuzda olup olmadığını kütüphane kataloğundan teyit edebilirsiniz. Yayın koleksiyonumuzda yoksa üniversite kütüphaneleri kataloğundan tarama yaparak ödünç alabileceğimiz üniversitelerin bilgisine erişebilirsiniz.\nDiğer üniversite kütüphanelerinden kaynak isteğinde bulunmak için ödünç kitap istek formunu doldurmanız gerekmektedir."
+            }
+        },
+        "iletişim": {
+            "title": "İletişim",
+            "questions": {
+                "Sorularım için kütüphaneciye nasıl ulaşabilirim?": "Sorularınız için (0212) 498 47 03 numaralı telefonu arayabilir ya da kutuphane@iku.edu.tr adresine e-posta gönderebilirsiniz."
+            }
+        }
+    }
+}
